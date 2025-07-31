@@ -1,0 +1,10 @@
+obj/
+bin/
+lostrecordc
+lostrecordc_debug
+lostrecordc_release
+output.s
+output.o
+program
+
+*.log
